@@ -1,0 +1,51 @@
+body, #mainWrapper {
+	height: 70%;
+	background-color:rgb(245, 245, 245);
+}
+
+
+
+body, .form-control{
+	font-size:12px!important;
+}
+
+.floatRight{
+	float:right;
+	margin-right: 18px;
+}
+
+.has-error{
+	color:red;
+}
+
+.formcontainer{
+	background-color: #DAE8E8;
+	padding: 20px;
+}
+
+.tablecontainer{
+	padding-left: 20px;
+}
+
+.generic-container {
+  width:90%;
+  margin-left: 40px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  padding: 60px;
+  background-color: #dff0d8;
+  border: 1px solid #337ab7;
+  border-radius: 4px;
+  box-shadow: 0 0 30px black;
+}
+
+.custom-width {
+    width: 80px !important;
+}
+.pad-btm-80 {
+	padding-bottom: 80px;
+}
+
+.grid {
+  height: 250;
+}
